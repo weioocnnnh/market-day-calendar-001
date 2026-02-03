@@ -1,0 +1,7 @@
+{
+    "name": "market-day-calendar-001",
+    "compatibility_date": "2026-02-04",
+    "assets": {
+        "directory": "./dist"
+    }
+}
